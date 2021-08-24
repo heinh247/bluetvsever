@@ -1,1 +1,7 @@
-[{"preview":"ဓာတ်ပုံ","description":"ဘာမှမရေး","video":"[{\"ep\":\"ep1\",\"timestamp\":\"1629796224740\",\"ep_link\":\"တီဗီlink\"},{\"ep\":\"ep2\",\"timestamp\":\"1629796298484\",\"ep_link\":\"v လင့်\"}]","title":"new","key":"-MhrQC2zQOkbcYp4hfJI","timestamp":"1629796224740"},{"preview":"ဓာတ်ပူံ","description":"ဘာလား","video":"[{\"ep\":\"ep1\",\"timestamp\":\"1629796277019\",\"ep_link\":\"vedio\"}]","title":"nwe2","key":"-MhrQOoqVIjf7QbJNF2x","timestamp":"1629796277019"}]
+[{"photo2":"ဓာတ်ပုံ","info":"ဘာမှမရေး",
+"video":"[{\"ep\":\"ep1\",\"ep_link\":\"တီဗီlink\"},
+{\"ep\":\"ep2\",\"ep_link\":\"v လင့်\"}]",
+"name":"new"},
+{"photo2":"ဓာတ်ပူံ","info":"ဘာလား",
+"video":"[{\"ep\":\"ep1\",\"ep_link\":\"vedio\"}]",
+"name":"nwe2"}]
